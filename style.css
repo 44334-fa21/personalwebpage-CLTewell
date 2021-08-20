@@ -22,14 +22,13 @@ h2{
 }
 ul{
   font-size: 20pt;
-  padding-left: 15%;
+  padding-left: 35%;
 }
 .grid-container {
     display: inline-grid;
     background-color: purple;
 }
 .grid-item {
-    padding-left: 35%
     padding: 20px;
     background-color: red;
     color:black;
