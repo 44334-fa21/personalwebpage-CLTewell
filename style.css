@@ -20,7 +20,8 @@ h2{
   font-size: 20pt;
 }
 ul{
-  left-padding:50%;
+  font-size: 18pt;
+  padding-left: 50%;
 }
 .grid-container{
   display: grid;
