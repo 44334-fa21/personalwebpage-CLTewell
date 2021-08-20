@@ -24,20 +24,20 @@ ul{
   font-size: 18pt;
   padding-left: 25%;
 }
-.grid-container{
-  display: grid;
-  grid-template-columns: auto;
-  background-color: #2196F3;
-  padding: 10px
-}
-.grid-item{
-  background-color: rgba(255,255,255,0.8);
-  border: 1px solid rgba(0,0,0,0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
-}
+
 a{
   font-size: 20pt;
   padding-left: 50%;
+}
+.grid-container {
+    display: inline-grid;
+    background-color: #C2272D;
+}
+.grid-item {
+    padding: 20px;
+    background-color: #4AA2D9;
+    color: #FFFFFF;
+    border: 2px solid #000000;
+    font-size: 30px;
+    font-weight: bold;
 }
