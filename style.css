@@ -8,7 +8,7 @@ h1 {
   font-size: 60pt;
       }
 p {
-  color: yellow;
+  color: white;
   text-align: center;
   font-style: italic;
   font-size: 18pt;
@@ -31,7 +31,7 @@ ul{
 .grid-item {
     padding: 20px;
     background-color: yellow;
-    color:black;
+    color:white;
     border: 2px solid #000000;
     font-size: 30px;
     font-weight: bold;
