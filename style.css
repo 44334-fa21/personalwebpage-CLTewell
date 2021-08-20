@@ -18,10 +18,11 @@ h2{
   color: purple;
   font-style: oblique;
   font-size: 20pt;
+  padding-left: 25%;
 }
 ul{
   font-size: 18pt;
-  padding-left: 50%;
+  padding-left: 25%;
 }
 .grid-container{
   display: grid;
