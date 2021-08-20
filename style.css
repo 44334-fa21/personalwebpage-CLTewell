@@ -26,7 +26,7 @@ ul{
 }
 .grid-container {
     display: inline-grid;
-    background-color: #C2272D;
+    background-color: purple;
 }
 .grid-item {
     padding-left: 20%
@@ -34,6 +34,6 @@ ul{
     background-color: red;
     color:black;
     border: 2px solid #000000;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: bold;
 }
