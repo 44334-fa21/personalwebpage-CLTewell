@@ -24,20 +24,16 @@ ul{
   font-size: 18pt;
   padding-left: 25%;
 }
-
-a{
-  font-size: 20pt;
-  padding-left: 50%;
-}
 .grid-container {
     display: inline-grid;
     background-color: #C2272D;
 }
 .grid-item {
+    padding-left: 20%
     padding: 20px;
     background-color: red;
-    color:purple;
+    color:black;
     border: 2px solid #000000;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: bold;
 }
